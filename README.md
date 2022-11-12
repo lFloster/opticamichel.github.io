@@ -1,6 +1,6 @@
 ## Curriculum Vitae
 
-|Información personal                                            |
+| |Datos personales|
 | ----------------- | ------------------------------------------------------------------ |
 | Nombre | Ronald Mamani Huisa|
 | Grado | Bachiller ingeniería en informática y sistemas|
