@@ -1,2 +1,8 @@
 # xFloster.github.io
-Proyecto de Ingeniería de Software 2 
+
+Name: Ronald Mamani Huisa
+Age: 23 years
+Student: Computer and systems engineering
+
+
+
